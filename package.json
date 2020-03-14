@@ -1,0 +1,38 @@
+{
+  "name": "esbo-frontend",
+  "version": "1.0.0",
+  "description": "My striking Nuxt.js project",
+  "author": "IgorOleniuk",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@nuxtjs/auth": "^4.8.5",
+    "@nuxtjs/axios": "^5.9.5",
+    "@nuxtjs/dotenv": "^1.4.0",
+    "@nuxtjs/pwa": "^3.0.0-beta.20",
+    "bootstrap": "^4.1.3",
+    "bootstrap-vue": "^2.0.0",
+    "idb": "^5.0.1",
+    "nuxt": "^2.0.0",
+    "nuxt-i18n": "^6.6.0",
+    "vue-i18n": "^8.15.5"
+  },
+  "devDependencies": {
+    "@nuxtjs/eslint-config": "^2.0.0",
+    "@nuxtjs/eslint-module": "^1.0.0",
+    "@vue/test-utils": "^1.0.0-beta.27",
+    "babel-eslint": "^10.0.1",
+    "babel-jest": "^24.1.0",
+    "eslint": "^6.1.0",
+    "eslint-plugin-nuxt": ">=0.4.2",
+    "jest": "^24.1.0",
+    "vue-jest": "^4.0.0-0"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "title": "EXPERIENCE SURVEY",
+  "subTitle": "Empire State Building Observatory",
+  "startButton": "Start",
+  "buttonNext": "Next",
+  "buttonPrevious": "Previous",
+  "highestFloor": "What was the highest floor you visited?",
+  "sortingExperiences": {
+    "title": "Please sort each of these experiences into a category below",
+    "optionsTitles": {
+      "1": "Modern Marvel",
+      "2": "Scenes Of NYC",
+      "3": "What To Do Beyond The View",
+      "4": "Host Connections",
+      "5": "Construction",
+      "6": "World's Most Famous Building",
+      "7": "Vintage Otis Elevator",
+      "8": "Celebrity",
+      "9": "An Urban Campus",
+      "10": "Kong",
+      "11": "Elevator Shaft",
+      "12": "The Site In The 1920s",
+      "13": "Surveyor's Viewers",
+      "14": "102 Floor",
+      "15": "Share Your Experience",
+      "16": "102 Elevator",
+      "17": "Artistry in Light",
+      "18": "Grand Stair"
+    },
+    "chooseOptions": {
+      "1": "Not Aplicable",
+      "2": "Poor",
+      "3": "Fair",
+      "4": "Good",
+      "5": "Superior",
+      "6": "Excellent"
+    }
+  },
+  "fillInput": {
+    "partOne": "Please fill in",
+    "partTwo": "for experience not listed"
+  },
+  "recommendToVisitTitle": "Aside from the view, what two things would you recommend everyone to visit?",
+  "elevatorPage": {
+    "title": "How long was the wait time at these points along your journey?",
+    "optionsTitles": {
+      "1": "Elevator between 86th & 102nd floor",
+      "2": "Elevator between 80th & 86th floor",
+      "3": "Elevator between 2nd & 80th floor",
+      "4": "Security",
+      "5": "Entrance"
+    },
+    "timeRange": {
+      "1": "Very Short",
+      "2": "About Right",
+      "3": "Too Long"
+    }
+  },
+  "directionsPage": {
+    "title": "Were the directions clear at these locations?",
+    "points": {
+      "1": "In the lobby",
+      "2": "Buying Tickets",
+      "3": "Before Security",
+      "4": "After Security",
+      "5": "In the Galleries",
+      "6": "I didn't have any difficulties"
+    },
+    "chooseOptions": {
+      "1": "Yes",
+      "2": "No"
+    }
+  },
+  "esboStaffPage": {
+    "title": "The ESBO staff were:",
+    "optionsTitles": {
+      "1": "Available when needed",
+      "2": "Friendly",
+      "3": "Helpful"
+    },
+    "chooseOptions": {
+      "1": "AGREE",
+      "2": "NO OPINION",
+      "3": "DISAGREE"
+    }
+  },
+  "formPage": {
+    "title": "Tell us a bit about you:",
+    "inputLables": {
+      "1": "Age",
+      "2": "Gender you most identify with",
+      "3": "Where do you live"
+    },
+    "ageOptions": {
+      "1": "Under 12",
+      "2": "13-18",
+      "3": "19-24",
+      "4": "25-34",
+      "5": "35-44",
+      "6": "45-54",
+      "7": "55-64",
+      "8": "65+"
+    },
+    "genderOptions": {
+      "1": "Female",
+      "2": "Male"
+    },
+    "liveOptions": {
+      "1": "Elsewhere in the US"
+    }
+  },
+  "reasonsToVisitPage": {
+    "title": "Please indicate the reasons for your visit (mark all that apply):",
+    "reasonOptions": {
+      "1": "Social experience",
+      "2": "Bring family or friends",
+      "3": "Part of a New York visit",
+      "4": "See New York from above",
+      "5": "Come with family and friends",
+      "6": "Celebrate special occasions",
+      "7": "Just passed by",
+      "8": "Visiting another observatory in New York"
+    }
+  },
+  "thanksPage": {
+    "title": "Thank you!",
+    "text": "Share your contact email if you would like to participate in further survey follow ups",
+    "emailInputText": "Email"
+  }
+}
+
